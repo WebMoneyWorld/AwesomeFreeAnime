@@ -1,6 +1,6 @@
-# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/)
+# [WebMoneyWorld - AwesomeFreeAnime](https://startbootstrap.com/templates/scrolling-nav/)
 
-[Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[AwesomeFreeAnime](https://startbootstrap.com/templates/scrolling-nav/) is an collection of awesome free anime with a collapsing, smooth scrolling navigation bar for genres created by [WebMoneyWorld](https://startbootstrap.com/).
 
 ## Preview
 
